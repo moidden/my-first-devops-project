@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Hello, DevOps World!"
+echo "Hello, From the dev branch"
 
 
